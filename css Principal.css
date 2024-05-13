@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+
+}
+.menu{
+    background-color: black;
+    width: auto;
+    height: 100px;
+    border-radius: 10px;
+}
+#imagen{
+    width: 150px;
+    height: 100px;
+}
